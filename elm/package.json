@@ -1,0 +1,23 @@
+{
+  "name": "elm-todo-mvc",
+  "version": "1.0.0",
+  "description": "[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)",
+  "main": "elm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ELM_HOME=node_modules/elm/share elm-reactor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evancz/elm-todomvc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evancz/elm-todomvc/issues"
+  },
+  "homepage": "https://github.com/evancz/elm-todomvc#readme",
+  "dependencies": {
+    "elm": "^0.16.0"
+  }
+}
